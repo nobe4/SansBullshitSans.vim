@@ -1,0 +1,42 @@
+*sbs.txt* Leveraging the synergy of conceals in vim
+
+          ___ ___ ___      _       ~
+         / __| _ ) __|__ _(_)_ __  ~
+         \__ \ _ \__ \\ V / | '  \ ~
+         |___/___/___(_)_/|_|_|_|_|~
+                                   ~
+
+================================================================================
+CONTENTS                                                           *sbs-content*
+
+    1. Usage ............ |sbs-usage|
+    2. License .......... |sbs-license|
+    3. Contributing ..... |sbs-contributing|
+
+================================================================================
+USAGE                                                                *sbs-usage*
+
+From the terminal: >
+
+  vim
+
+That's it! (hey, no config, nothing to do, isn't it beautiful ?)
+
+================================================================================
+LICENSE                                                            *sbs-license*
+
+Authors: Victor Haffreingue <http://nobe4.fr>
+Licenses:
+
+- Picture Credits: <https://unsplash.com/search/bull?photo=9uOasewOoXc>
+- SansBullshitSans Inspiration: <http://www.sansbullshitsans.com/>
+- MIT License for this project: <https://github.com/nobe4/SansBullshitSans.vim/blob/master/LICENSE>
+
+================================================================================
+CONTRIBUTING                                                  *sbs-contributing*
+
+You can find the github repository here :
+    <https://github.com/nobe4/SansBullshitSans.vim>
+Feel free to question us with an issue
+
+" vim:tw=78:et:ft=help:norl:
